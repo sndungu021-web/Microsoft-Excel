@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository you walks through a **well-structured Excel sales performance analysis**, demonstrating how raw sales data can be transformed into meaningful insights using Excel. It is designed for beginners to intermediate users looking to improve their analytical and dashboarding skills.
+This repository walks you through a **well-structured Excel sales performance analysis**, demonstrating how raw sales data can be transformed into meaningful insights using Excel. It is designed for beginners to intermediate users looking to improve their analytical and dashboarding skills.
 
 The main focus is on having **practical, real-world analysis**—from data cleaning to building KPIs, pivot tables, and a clear, insight-driven dashboard.
 
